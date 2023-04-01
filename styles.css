@@ -14,14 +14,14 @@ header{
     padding-top: 5px;
 
 }
-div.box{
+div{
     background-color: white;
     border-radius: 15px;
     text-align: center;
     margin: 5px;
     padding: 5px;
 }
-div#latest-news-section{
+div.latest-news-section{
     float: left;
     width: 30%;
     margin-left: 10px;
@@ -30,7 +30,7 @@ div#ma{
     float:left ;
     width: 40%;
 }
-div#pictorial-news-section{
+div.pictorial-news-section{
     float: right;
     width: 25%;
     margin-right: 10px;
