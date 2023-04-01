@@ -1,1 +1,37 @@
 /*  your css code here. If applicable */
+img{
+    height: 100px;
+    width: 200px;
+}
+body{
+    background-color:  #f5f5f5;
+}
+header{
+    background-color: #011e29;
+    color: white;
+    height: 100px;
+    text-align: center;
+    padding-top: 5px;
+
+}
+div.box{
+    background-color: white;
+    border-radius: 15px;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}
+div#lna{
+    float: left;
+    width: 30%;
+    margin-left: 10px;
+}
+div#ma{
+    float:left ;
+    width: 40%;
+}
+div#pn{
+    float: right;
+    width: 25%;
+    margin-right: 10px;
+}
